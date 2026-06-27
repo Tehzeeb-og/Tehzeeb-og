@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there! 👋 I'm **Tehzeeb Mansoori**<br><br>A Frontend Developer and BCA student with a strong foundation in the MERN stack and cross-platform mobile development. I specialize in building, maintaining, and debugging clean, intuitive applications that deliver real business value.<br><br>### 🚀 What I Do<br>* **Frontend & Mobile Engineering:** Crafting responsive web interfaces using **React**, **Tailwind CSS**, and **shadcn/ui**. I also have experience bringing applications to mobile platforms using **React Native**.<br>* **Application Maintenance & Debugging:** Deep-diving into established codebases to troubleshoot complex issues, ensure UI consistency, and optimize overall system performance.<br>* **Backend Fundamentals:** Solid understanding of building RESTful APIs with **Node.js**, **Express**, and **MongoDB**, which allows me to seamlessly connect frontend interfaces with complex backend architecture.<br><br>### 🏢 Current Experience<br>Currently, I am a **Frontend Developer Intern at Ethical Intelligence**, where I focus on testing and resolving bugs for large-scale production applications. I actively work on:<br>* **Technohub:** Optimizing a comprehensive coaching management system used by real-world clients.<br>* **Internal Enterprise Platform:** Debugging and maintaining a robust internal tool that handles employee leave workflows, integrates with ClickUp for task management, and processes IT consultancy requests.<br><br>### 🌱 Continuous Growth<br>Whether I am fixing a tough UI bug or exploring advanced architectural concepts like Docker and Microservices, I am always focused on writing cleaner code and understanding how large systems work behind the scenes.
 
-<!--
-**Tehzeeb-og/Tehzeeb-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_t_ehzeeb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tehzeeb-mansoori) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tehzeebmansoori2@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tehzeeb-og&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Tehzeeb-og&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tehzeeb-og&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Tehzeeb-og&icon=0&color=0)](https://visitcount.itsvg.in)
